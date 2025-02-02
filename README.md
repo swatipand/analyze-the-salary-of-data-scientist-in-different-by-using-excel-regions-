@@ -1,9 +1,5 @@
-# analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-
 
-
-
-Excel Salary Dashboard
-
+# Excel Salary Dashboard
 
 
 Introduction
