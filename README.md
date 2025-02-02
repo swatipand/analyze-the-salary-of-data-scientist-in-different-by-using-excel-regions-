@@ -3,7 +3,9 @@
 
 
 Excel Salary Dashboard
-1_Salary_Dashboard.png
+[![Link Symbol](![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/9cbf266a-1ded-42cf-96b8-62599a85d836)
+)](https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/edit/main/README.md)
+
 
 Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
