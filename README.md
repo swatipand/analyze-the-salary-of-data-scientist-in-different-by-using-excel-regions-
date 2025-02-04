@@ -82,14 +82,15 @@ Salary Dashboard Title
 
 📉 Dashboard Implementation:
 
-Salary Dashboard Type
+<img src="/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+
 
 ### ❎ Data Validation
 #### 🔍 Filtered List
-🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
-🎯 User input is restricted to predefined, validated schedule types
-🚫 Incorrect or inconsistent entries are prevented
-👥 Overall usability of the dashboard is enhanced
+-🔒** Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the 'Job Title', 'Country', and 'Type option' in the Data tab ensures:
+    - 🎯 User input is restricted to predefined, validated schedule types
+    - 🚫 Incorrect or inconsistent entries are prevented
+    - 👥 Overall usability of the dashboard is enhanced
 
 <img src="https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/blob/main/1_Salary_Dashboard_Data_Validation.gif" alt="Salary Dashboard Data Validation GIF" width="500"/>
 
