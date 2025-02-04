@@ -91,6 +91,8 @@ Salary Dashboard Type
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
 
+![Salary Dashboard Data Validation GIF](https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/blob/main/1_Salary_Dashboard_Data_Validation.gif)
+
 
 ## Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
