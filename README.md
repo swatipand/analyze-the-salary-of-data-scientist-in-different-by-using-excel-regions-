@@ -11,7 +11,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ## Dashboard File
 
-My final dashboard is in 1_Salary_Dashboard.xlsx.
+My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:
