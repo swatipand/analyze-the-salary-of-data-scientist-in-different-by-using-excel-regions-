@@ -91,7 +91,7 @@ Salary Dashboard Type
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
 
-![Salary Dashboard Data Validation GIF](https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/blob/main/1_Salary_Dashboard_Data_Validation.gif)
+<img src="https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/blob/main/1_Salary_Dashboard_Data_Validation.gif" alt="Salary Dashboard Data Validation GIF" width="500"/>
 
 
 ## Conclusion
