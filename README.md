@@ -66,19 +66,24 @@ IF(
 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 🍽️ Background Table
 
-1_Salary_Dashboard_Screenshot1.png
+![1_Salary_Dashboard_Screenshot1.png](/1_Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
 
-Salary Dashboard Title
+<img src="/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
-⏰ Count of Job Schedule Type
+#### ⏰ Count of Job Schedule Type
+
+```
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
-🔍 Unique List Generation: This Excel formula below employs the FILTER() function to exclude entries containing "and" or commas, and omit zero values.
-🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
-🍽️ Background Table
+```
 
-1_Salary_Dashboard_Type.png
+
+- 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
+- **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
+
+
+![1_Salary_Dashboard_Type.png](/1_Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
