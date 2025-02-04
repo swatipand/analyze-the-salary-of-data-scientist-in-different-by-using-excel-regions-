@@ -84,14 +84,14 @@ Salary Dashboard Title
 
 Salary Dashboard Type
 
-❎ Data Validation
-🔍 Filtered List
+### ❎ Data Validation
+#### 🔍 Filtered List
 🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
 🎯 User input is restricted to predefined, validated schedule types
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
-Salary Dashboard Data Validation
 
-Conclusion
+
+## Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
 
